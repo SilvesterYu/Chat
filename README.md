@@ -13,3 +13,4 @@ Contributor: Pi
 ### Issue #6: Programming memes
 
 Contributor: Silvester
+
