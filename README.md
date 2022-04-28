@@ -14,7 +14,9 @@ Contributor: Pi
 
 Contributor: Silvester
 
+### Issue #7: Hackertyper
 
+Contributor: Silvester
 
 
 
