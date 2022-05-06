@@ -18,5 +18,9 @@ Contributor: Silvester
 
 Contributor: Silvester
 
+### Issue #8: How to stop using Console.log() like a pro
+
+Contributor: Pi
+
 
 
