@@ -22,5 +22,9 @@ Contributor: Silvester
 
 Contributor: Pi
 
+### Issue #13: Roadmaps to becoming a techie
+
+Contributor: Pi
+
 
 
