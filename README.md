@@ -26,5 +26,9 @@ Contributor: Pi
 
 Contributor: Pi
 
+### Issue 14: JavaScript color picker 
+
+Contributor: Silvester Yu
+
 
 
