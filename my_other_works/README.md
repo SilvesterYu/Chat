@@ -1,1 +1,1 @@
-## Instructions and descripts on my other works
+## Instructions and descriptions on my other works
