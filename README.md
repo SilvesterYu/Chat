@@ -1,3 +1,3 @@
 # Chat
 
-Let's chat in Issues!
+### Let's chat in Issues!
