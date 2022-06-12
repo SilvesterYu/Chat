@@ -6,4 +6,6 @@
 
 ### 3. [Install Minkowski Engine:](https://nvidia.github.io/MinkowskiEngine/quick_start.html)
 
+### 4. [Python progress bar tqdm](https://github.com/tqdm/tqdm)
+
 
