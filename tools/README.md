@@ -10,4 +10,6 @@
 
 ### 5. [Citation management: Zotero](https://www.zotero.org/)
 
+### 6. [A database for tools by Pi](https://kitdb.app/)
+
 
