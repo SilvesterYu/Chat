@@ -8,4 +8,6 @@
 
 ### 4. [Python progress bar tqdm](https://github.com/tqdm/tqdm)
 
+### 5. [Citation management: Zotero](https://www.zotero.org/)
+
 
