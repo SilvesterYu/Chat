@@ -95,3 +95,8 @@ Open the current folder in graphical output
 xdg-open ./
 ```
 
+Solve file upload and freezing problem
+
+```
+sudo apt install xdg-desktop-portal-gnome
+```
