@@ -11,3 +11,5 @@
 6. [pytorch RL code example](https://colab.research.google.com/github/PytorchLightning/lightning-tutorials/blob/publication/.notebooks/lightning_examples/reinforce-learning-DQN.ipynb#scrollTo=ec06ad77)
 
 7. [front end for uploading images](https://medium.com/@nagachaitanyakonada/image-upload-functionality-cd497a5bba54)
+
+8. [deploy with heroku](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
